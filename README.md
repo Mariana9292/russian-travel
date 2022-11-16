@@ -11,4 +11,4 @@
 
 ## Ссылка на GitHub Pages:
 
-- https://mariana9292.github.io/russian-travel-mainproject/
+- https://mariana9292.github.io/russian-travel/
